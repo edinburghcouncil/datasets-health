@@ -1,4 +1,3 @@
-datasets-health
-===============
+# Social care, health and wellbeing data
 
-Council datasets concerning health and wellbeing
+Please see the main [Edinburgh Council datasets](https://github.com/edinburghcouncil) repository for licencing details, contribution guidelines and other further information.
