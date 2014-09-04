@@ -1,0 +1,196 @@
+Activity Group ID,Activity Group Name
+ACARCH0001,Archery Coaching
+ACBADM0001,Badminton Coaching
+ACCLIM0001,Climb Coaching
+ACDANC0001,Dance Coaching
+ACDIVE0001,Dive Coaching
+ACGYMN0001,Gymnastics Coaching
+ACJUDO0001,Judo Coaching
+ACKARA0001,Karate Coaching
+ACSAIL0001,Dinghy Sailing
+ACSAIL0002,Kayaking
+ACSAIL0003,Keelboat Sailing
+ACSAIL0004,Powerboating
+ACSAIL0005,Multi-Activity Course
+ACSAIL0006,Instructor Course
+ACSAIL0007,Shore Based Courses
+ACSAIL0008,Multihull
+ACSQUA0001,Squash Coaching
+ACSWIM0001,Beginners
+ACSWIM0002,Improvers
+ACSWIM0003,Stroke Development
+ACSWIM0004,Swim Fit
+ACSWIM0005,Masters
+ACSWIM0006,Individual Lesson
+ACTAASS001,Aerial Assault
+ACTACT001,Activator Camp
+ACTAFOOT01,American Football
+ACTATHL001,Athletics
+ACTBADM001,Badminton
+ACTBADM002,Badminton
+ACTBASE001,Baseball
+ACTBASK001,Basketball
+ACTBDAY001,Birthday Party
+ACTBDAY002,Birth.Party From January
+ACTBOWL001,Bowling
+ACTCAMP001,Holiday Camp
+ACTCLIM001,Climbing Sessions
+ACTCLIM002,Taster Sessions
+ACTCLIM003,Climbing Courses
+ACTCRKT001,Cricket
+ACTDANC001,Cheerleading
+ACTEDUC001,Education Use - Wet
+ACTEDUC002,Education Use - Dry
+ACTEDUC003,Education Use - Outdoor
+ACTENN0001,Tennis Coaching - Adult
+ACTEXLT001,Extended Let - Wet
+ACTEXLT002,Extended Let - Dry
+ACTEXLT003,Extended Let - Outdoor
+ACTFOOT001,Football - Indoor
+ACTFOOT002,Football - Outdoor
+ACTFOOT003,Football
+ACTGFOOT01,Gaelic Football
+ACTGOLF001,Golf
+ACTGOLF002,Golf Advanced Bookings
+ACTGOLF003,Golf Online Bookings
+ACTGOLF004,Golf Club Bookings
+ACTGOLF005,Golf Promotions
+ACTHOCK001,Hockey
+ACTINIT001,Initiatives Class
+ACTMNTN001,Z1 Preparation + Recovery
+ACTMNTN002,Z2 Court Unplayable
+ACTNETB001,Netball
+ACTOPEN001,Open All Hours
+ACTQUAL001,Qualifications Course
+ACTRACQ001,Racquetball
+ACTRAM0001,Trampoline Coaching
+ACTRUGB001,Rugby
+ACTSAIL001,P.E. Boat Hire
+ACTSAIL002,P.E. Boat Hire + Inst.
+ACTSAIL003,P.E. Instructor Only
+ACTSAIL004,P.E. Schools + Colleges
+ACTSAIL005,P.E. Education
+ACTSAIL006,P.E. Groups
+ACTSOFT001,Soft Play
+ACTSPEH001,Special Event + Hires
+ACTSPEH002,Performance Squads
+ACTSQUA001,Squash
+ACTSQUA002,Squash
+ACTSTAF001,Staff Training
+ACTSTEN001,Short Tennis
+ACTTBLT001,Table Tennis
+ACTTENN001,Tennis
+ACTTENN002,Tennis - Merchiston
+ACTTENN003,Tennis Walk On
+ACTTENN004,Tennis - Free Practice
+ACTTENN005,Tennis - P.A.S.
+ACTVOLL001,Volleyball
+ADDRYC0001,Education Dry Coaching
+ADTENN0001,Adult Tennis Coaching
+ADWETC0001,Adult Wet Coaching
+ADWETC0002,Education Coaching
+FITCLAS001,Aquafit
+FITCLAS002,Bodyattack
+FITCLAS003,Bodybalance
+FITCLAS004,Sh`Bam
+FITCLAS005,Boxercise
+FITCLAS006,Circuit Training
+FITCLAS007,Bodycombat
+FITCLAS008,Body + Core Conditioning
+FITCLAS009,Cxworx
+FITCLAS010,Dance
+FITCLAS011,General
+FITCLAS012,Get Up And Go
+FITCLAS013,Gravity
+FITCLAS014,Bodyjam
+FITCLAS015,Jogging Network
+FITCLAS016,Pilates
+FITCLAS017,Powerhoop
+FITCLAS018,Bodypump
+FITCLAS019,R P M
+FITCLAS020,Bodystep
+FITCLAS021,"Tums, Bums, Thighs"
+FITCLAS022,Bodyvive
+FITCLAS023,Yoga
+FITCLAS024,Zumba
+FITCLAS025,X-Press Work Out
+FITCLAS026,X-Trainer Class
+FITCLAS027,Tabata
+FITCLAS028,Pool  Based
+FITCLAS029,Boot Camp
+FITCLAS030,Boxfit
+FITCLAS031,Fitsteps
+FITCLAS032,Metafit
+FITCLAS033,Tai Chi
+FITCLAS034,Cardio Tennis
+FITCLAS035,Fast Blast
+FITCLAS036,Lunch Workout
+FITCLAS037,Virtual Fitness Tester
+FITCLAS038,Insanity
+FITCLAS039,Virtual Bodycombat
+FITCLAS040,Virtual Cxworx
+FITCLAS041,Virtual Sh`Bam
+FITCLAS042,Virtual Bodybalance
+FITCLAS043,Outdoor Fitness Class
+FITCLAS044,Masters
+FITCLAS045,Piloxing
+FITCLAS046,Virtual Bodypump
+FITCLAS047,Hydrospin
+FITCLAS048,Virtual R.P.M.
+FITCLAS049,Virtual Pilates
+FITCLAS050,Virtual Power Step
+FITCLAS051,Virtual Strength Training
+GBOOK00001,Gym Booking
+GBOOK00002,Gym Classes
+GBOOK00003,Get Up And Go Gym
+JCATHL0001,Athletics Coaching
+JCBADM0001,Badminton Coaching
+JCBALL0001,Ball Kids Coaching
+JCBASK0001,Basketball Coaching
+JCCLIM0001,Climb Coaching
+JCDANC0001,Dance Coaching
+JCDIVE0001,Diving Coaching
+JCFOOT0001,Football Coaching
+JCGYMN0001,Gymnastics Coaching
+JCINCL0001,Inclusion Coaching
+JCJUDO0001,Judo Coaching
+JCKARA0001,Karate Coaching
+JCMULT0001,Multi Activity
+JCNRGZ0001,N.R.G. Zone
+JCSAIL0001,Dinghy Sailing
+JCSAIL0002,Kayaking
+JCSAIL0003,Keelboat Sailing
+JCSAIL0004,Powerboating
+JCSAIL0005,Multi-Activity Course
+JCSQUA0001,Squash Coaching
+JCSWIM0001,Adult + Baby
+JCSWIM0002,Pre-School 1:4
+JCSWIM0003,Adult + Child
+JCSWIM0004,Pre-School
+JCSWIM0005,Beginners 1
+JCSWIM0006,Beginners 1:4
+JCSWIM0007,Beginners 2
+JCSWIM0008,Beginners 8+
+JCSWIM0009,Bronze
+JCSWIM0010,Improvers
+JCSWIM0011,Junior Triathlon
+JCSWIM0012,Mini Synchro
+JCSWIM0014,Silver
+JCSWIM0015,Gold
+JCSWIM0016,Gold Elite
+JCSWIM0017,Add Supp Needs Pre Sch
+JCSWIM0018,Add Supp Needs Beg
+JCSWIM0019,Add Supp Needs Imp
+JCSWIM0020,Add Supp Needs Bronze.
+JCSWIM0021,Aquavator
+JCSWIM0022,Individual Lessons
+JCSWIM0023,Nursery
+JCSWIM0024,Mini Polo
+JCSWIM0025,Rookie Lifeguard
+JCSWIM0026,Improvers 1:4
+JCSWIM0027,Free Swimming Lessons
+JCTENN0001,Tennis Coaching - Junior
+JCTRAM0001,Trampoline Coaching
+WETAERO001,Aerotone
+WETBATO001,Hot Bath
+ZACTGYM001,Gym Booking Sheet
